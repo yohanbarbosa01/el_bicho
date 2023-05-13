@@ -349,11 +349,6 @@ footer {
         clip-path: circle(0.0% at 0 0);
     }
 
-    .nav .hamburgueropen{
-        clip-path: circle(0.0% at 0 0);
-    }
-
-
     .nav .enlaces-header a{
         color: #fff;
         background-color: #c25a5a;
@@ -362,7 +357,7 @@ footer {
         width: 50%;
         text-align: center;
         margin-top: 20px;
-        
+
     }
     h1{
         font-size: 28px;
@@ -381,6 +376,9 @@ footer {
         width: 150px;
         height: 150px;
     }
+    .nav .hamburgueropen{
+        clip-path: circle(150.0% at 0 0);
+    }    
 
     /* ########################## SECTION- EDUACATION ######################*/
 .education{
